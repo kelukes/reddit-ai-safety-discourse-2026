@@ -61,6 +61,19 @@ Posts were collected between **29 January 2026 and 1 March 2026** using a third-
 
 ---
 
+## Additional data files
+
+These files contain the analytical outputs of the pipeline and can be used independently without running the full notebook.
+
+| File | Description |
+|---|---|
+| `sample.csv` | 200-post stratified sample across all clusters, with all analytical fields |
+| `final_cluster_map.csv` | Cluster metadata: ID, label, theme family, discourse framing, size, coherence |
+| `final_cluster_table.csv` | Full cluster table with sentiment summary, top words, and framing per cluster |
+| `cluster_sentiment_summary.csv` | Mean valence and sentiment distribution (pos/neu/neg) per cluster |
+| `family_sentiment_summary.csv` | Same aggregated by theme family |
+
+
 ## Ethical considerations
 
 - Data was collected at the aggregate level; **no usernames or personal identifiers are included**
