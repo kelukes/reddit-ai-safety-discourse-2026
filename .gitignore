@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files)
+*.joblib
+df_model*.csv
+sentiment_subset*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artifacts
+artifacts/
