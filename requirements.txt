@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+umap-learn
+hdbscan
+sentence-transformers
+transformers
+torch
+plotly
+seaborn
+matplotlib
+langdetect
+joblib
+tqdm
