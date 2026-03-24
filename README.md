@@ -60,11 +60,12 @@ Clustering evaluation used silhouette score, Davies-Bouldin index, Calinski-Hara
 ```
 reddit-ai-safety-discourse-2026/
 ├── clustering_capstone.ipynb   # full analysis notebook
+├── report.pdf                  # project report (PDF)
+├── requirements.txt            # Python dependencies
 ├── assets/                     # visualizations used in this README
 ├── data/
-│   ├── sample.csv              # 200-post anonymized sample (no usernames)
-│   └── README.md               # data collection details & reproduction instructions
-└── requirements.txt
+│   ├── sample.csv              # 200-post anonymized sample
+│   └── README.md               # data collection details
 ```
 
 ---
