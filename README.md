@@ -14,7 +14,7 @@ The strongest negativity is concentrated around **everyday lived disruption** �
 
 ## Key findings
 
-- **24 interpretable discourse clusters** recovered from 6,374 Reddit posts across 39 search terms
+- **23 interpretable discourse clusters** recovered from 6,374 Reddit posts across 39 search terms
 - The most negative themes: `authenticity_panic`, `trust_backlash`, `lab_safety_trust_collapse`, `creative_backlash`
 - The most neutral/positive: `regulated_enterprise_ai_adoption`, `ai_market_growth_and_uncertainty`
 - **Labour discourse split into two distinct clusters** — structural job-replacement anxiety vs. practical job-search frustration — showing that scale and rhetoric matter as much as topic
