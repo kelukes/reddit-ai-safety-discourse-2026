@@ -93,4 +93,4 @@ Python · sentence-transformers · UMAP · HDBSCAN · scikit-learn · VADER · R
 
 ---
 
-*Capstone project, AI/ML programme, March 2026*
+*Capstone project, Applied AI/ML programme, March 2026*
