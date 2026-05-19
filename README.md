@@ -1,8 +1,10 @@
-# reddit-ai-safety-discourse-2026
-Unsupervised clustering + sentiment analysis of 6K Reddit posts on AI ethics &amp; safety (HDBSCAN, RoBERTa, discourse framing)
-
 # Mapping AI Safety Discourse on Reddit
 ### Unsupervised clustering, sentiment analysis & discourse framing of 6,000+ posts (Jan–Mar 2026)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-RoBERTa-yellow)
+![HDBSCAN](https://img.shields.io/badge/Clustering-HDBSCAN-blueviolet)
+![Reddit Data](https://img.shields.io/badge/Data-Reddit%206K%20posts-orange)
 
 This project analyzes a 30-day snapshot of Reddit discussions about AI ethics and AI safety.
 Rather than measuring opinion, it maps **what people are actually talking about**, **how negative or positive each theme is**, and **how AI-related risks are being framed** in practice.
@@ -89,7 +91,9 @@ A 200-post anonymized sample is provided in `data/sample.csv` to illustrate the 
 
 ## Stack
 
-Python · sentence-transformers · UMAP · HDBSCAN · scikit-learn · VADER · RoBERTa · Plotly · pandas
+- **Embeddings:** sentence-transformers, UMAP, HDBSCAN
+- **Sentiment:** VADER, RoBERTa (cardiffnlp)
+- **Viz & data:** Plotly, pandas
 
 ---
 
